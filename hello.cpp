@@ -27,7 +27,7 @@ int main()
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
-    ll tt=1;
+    ll tt=2;
     cin >> tt;
     for(int cse=1; cse<=tt; cse++)
     {
@@ -38,9 +38,7 @@ int main()
         int a[n];
 
         forr(i, 0, n)
-        {
         	cin >> a[i];
-        }
         cout << a[0] << endl;
         //need to change this l
         // cout << "Case " << cse <<  ":";
