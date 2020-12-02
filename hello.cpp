@@ -40,8 +40,7 @@ int main()
 
         forr(i, 0, n)
         	cin >> a[i];
-        cout << a[0] << endl;
-        //need to change this l
+        //changed again l
         // cout << "Case " << cse <<  ":";
         cout << ans << endl;
     }
