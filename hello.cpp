@@ -28,6 +28,7 @@ int main()
     cin.tie(NULL);
     cout.tie(NULL);
     ll tt=2;
+    //actually entering is good
     cin >> tt;
     for(int cse=1; cse<=tt; cse++)
     {
