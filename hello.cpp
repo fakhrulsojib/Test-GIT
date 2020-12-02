@@ -42,7 +42,7 @@ int main()
         	cin >> a[i];
         }
         cout << a[0] << endl;
-        
+        //need to change this l
         // cout << "Case " << cse <<  ":";
         cout << ans << endl;
     }
