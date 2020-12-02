@@ -1,23 +1,5 @@
 #include <bits/stdc++.h>
-#include <string>
-#define MAX 100007
-#define scn1(a) scanf("%d", &a);
-#define scn2(a, b) scanf("%d %d", &a, &b);
-#define scn3(a, b, c) scanf("%d %d %d", &a, &b, &c);
-#define lscn1(a) scanf("%lli", &a);
-#define lscn2(a, b) scanf("%lli %lli", &a, &b);
-#define lscn3(a, b, c) scanf("%lli %lli %lli", &a, &b, &c);
-#define prnt(a) printf("%d\n", a);
-#define forr(i, a, n) for(int i=a;i<n;i++)
-#define nl puts("");
-#define PB push_back
-#define enl cout << "\n";
-#define CHK(a) cout << (#a) << " = " << (a) << endl;
-typedef long long int ll;
-using namespace std;
-void arraychk(int a[],int n) {for(int i=0;i<n;i++)cout<<a[i]<<" ";enl;}
-#define LOOPCHK(a, n) arraychk(a, n);
- 
+
 int main()
 {
     #ifndef ONLINE_JUDGE
