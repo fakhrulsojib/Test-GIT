@@ -27,7 +27,8 @@ int main()
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(NULL);
-    ll tt=1;
+    ll tt=0;
+//NO N
     cin >> tt;
     for(int cse=1; cse<=tt; cse++)
     {
