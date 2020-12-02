@@ -41,7 +41,7 @@ int main()
         {
         	cin >> a[i];
         }
-
+        cout << a[0] << endl;
         
         // cout << "Case " << cse <<  ":";
         cout << ans << endl;
